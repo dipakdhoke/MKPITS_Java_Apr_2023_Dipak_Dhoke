@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<stdio.h>
+int main()
+{
+ int i ,z,x;
+for (i=1;i<=4;i++){
+
+      for (z=4;z>=i;z--){
+	    printf(" ");
+     }
+      for (x=1;x<=i;x++){
+      printf(" ");
+      printf("*");
+      }
+     printf("\n");
+     
+
+     }
+     return 0;
+
+
+      }
+
+
+
+
