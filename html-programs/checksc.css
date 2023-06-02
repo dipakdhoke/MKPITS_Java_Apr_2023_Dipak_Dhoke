@@ -1,0 +1,18 @@
+.box1{
+	height: 70px;
+	width:70px;
+	color: red;
+	background-color: black;
+	display: inline-block;
+	margin: -5px;
+	font-size: 50px;
+	justify-content: center;
+	/* align-items: center; */
+
+}
+
+.box2{
+	color: red;
+	background-color: brown;
+	
+}
