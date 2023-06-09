@@ -1,0 +1,28 @@
+.nav{
+    display: inline block;
+    float: left;
+    padding: 10px;
+    margin:30px
+
+}
+li{
+    margin: 45px;
+}
+.im{
+    width: 100px;
+    height:100px;
+    
+}
+.div1{
+    position: relative;
+}
+.div2{
+    position: absolute;
+}
+ .ser img{
+    height: 200px;
+    width: 200px;
+    padding-right: 30px;
+
+
+}

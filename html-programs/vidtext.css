@@ -1,0 +1,32 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main .nav{
+	display: inline-block;
+    padding: 25px;
+	width: 100%;
+	height: 25px;
+	flex: left;
+	background-color: yellow;
+	position: fixed;
+}
+
+.main li{
+	
+	display: inline-block;
+	padding: 25px;
+	padding-bottom: 50px;
+}
+.main video{
+	width:100%;
+	
+	border-color: red;
+	position: absolute;
+}
+
+.main .vdi{
+	position: absolute;
+}
